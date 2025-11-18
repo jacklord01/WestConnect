@@ -52,7 +52,7 @@
             "vite": "^6.3.5"
       },
       "scripts": {
-            "dev": "vite",
+            "dev": "npm run dev",
             "build": "npx vite build"
       }
 }
